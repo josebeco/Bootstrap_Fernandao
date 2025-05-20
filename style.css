@@ -1,0 +1,14 @@
+#navegador{
+    background-color: rgb(200, 30, 30);
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+#navbarNav a{
+    color: antiquewhite;
+}
+
+#logo{
+    padding-right: 5px;
+    border-radius: 5px;
+}
