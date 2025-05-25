@@ -12,3 +12,44 @@
     padding-right: 5px;
     border-radius: 5px;
 }
+
+#s1 #carousel1{
+    padding-top: 30px;
+}
+#s1{
+   background: #757575;
+    background: radial-gradient(circle, rgba(117, 117, 117, 1) 0%, rgba(5, 0, 0, 1) 100%, rgba(74, 74, 74, 1) 100%);
+    padding-bottom: 30px;
+}
+
+#s1 .card{
+    color: white;
+    background-color: #909090;
+    text-align: center;
+    
+}
+
+#but{
+    color: white;
+    font-weight: bold;
+    background-color: rgb(200, 30, 30);
+    border-radius: 15px;
+}
+
+#but:hover{
+    background-color: rgb(230, 30, 30);
+}
+
+#cardImg{
+    height: 30rem;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  position: absolute;
+  bottom: 10%;
+}
+
+
